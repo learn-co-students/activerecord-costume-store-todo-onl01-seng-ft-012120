@@ -5,7 +5,7 @@
 |Section                           |
 |----------------------------------|
 |[Objectives](#objectives)         |
-|[Active Record](#active-record)    |
+|[Active Record](#active-record)   |
 |[Example](#example)               |
 |[Instructions](#instructions)     |
 |[Resources](#resources)           |
